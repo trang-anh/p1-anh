@@ -1,4 +1,4 @@
-This is my implementation for a Shell from scratch. This is a project for my Computer Systems class. 
+This is a project for my Computer Systems class. In this project, I made a [Shell](https://en.wikipedia.org/wiki/Unix_shell) from scratch.
 
 # Project 1: Shell
 
